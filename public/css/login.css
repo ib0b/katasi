@@ -1,0 +1,15 @@
+a{
+	color: white;
+}
+
+ a:hover {
+    color: #0ce2d0;
+    
+   
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+     color: black;
+    background-color: white;
+   
+    }
